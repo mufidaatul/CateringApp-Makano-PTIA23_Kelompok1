@@ -8,7 +8,8 @@ Aplikasi catering adalah sebuah platform digital yang dirancang untuk untuk meme
 
 # Fitur di Aplikasi 
 1. Fitur Login dan Register: Memungkinkan pengguna untuk membuat akun dan mengakses aplikasi. Pencarian Makanan: Pengguna dapat mencari menu atau jenis makanan tertentu dengan cepat.
-2. Kategori Paket Makanan: Menyediakan kategori paket seperti Complete Package, Saving Package, Healthy Package, FastFood Package, Birthday Package dan Dessert.
+   https://drive.google.com/file/d/1FiZry_NzLZa1BRIqDJ6blWnWBSbb5wY_/view?usp=sharing
+3. Kategori Paket Makanan: Menyediakan kategori paket seperti Complete Package, Saving Package, Healthy Package, FastFood Package, Birthday Package dan Dessert.
 4. Rekomendasi Menu: Memberikan rekomendasi menu berdasarkan preferensi pengguna.
 5. Detail Paket Menu: memberikan informasi lengkap tentang menu yang dipilih oleh pengguna. Informasi tersebut mencakup nama menu, harga, deskripsi, rating, perkiraan waktu pemesanan, serta opsi untuk menambah atau mengurangi jumlah pesanan.
 6. Manajemen Keranjang Belanja: Memudahkan pengguna meninjau pesanan sebelum melakukan pembayaran.
