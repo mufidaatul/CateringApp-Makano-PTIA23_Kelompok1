@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "780981344287",
+    "firebase_url": "https://catering-16dd77b6-default-rtdb.firebaseio.com",
+    "project_id": "catering-16dd77b6",
+    "storage_bucket": "catering-16dd77b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780981344287:android:b071974f38caac12229d2a",
+        "android_client_info": {
+          "package_name": "com.foodio.catering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCodLgJooHpB1f4s_zpQVoyia9lVC4SGeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

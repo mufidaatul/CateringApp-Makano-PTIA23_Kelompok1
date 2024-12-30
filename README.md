@@ -7,13 +7,13 @@ https://youtu.be/YpGac1bY2Tw
 # Tutorial Build with Step by Step
 https://rivaldi48.blogspot.com/2023/08/tutorial-membuat-aplikasi-catering.html
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciwATHmqKDbCSOOTpPjx2jQ75dACIHtfLLyO0404cwbBGGsO7wBqPzCB66mQReJPLKBMBtidLNA13IsViLaEBFX1x5w2_235_ENMtf4cTNxENQCtQjDt60YS6Dfntx-XP0utrjfHB1t4FJ4LU9QlHjvwjRWXx70G7jTsw83QRcWB-l7EymIQPakPEtzyz/s1280/Tutorial%20Membuat%20Aplikasi%20Catering%20Sederhana%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciwATHmqKDbCSOOTpPjx2jQ75dACIHtfLLyO0404cwbBGGsO7wBqPzCB66mQReJPLKBMBtidLNA13IsViLaEBFX1x5w2_235_ENMtf4cTNxENQCtQjDt60YS6Dfntx-XP0utrjfHB1t4FJ4LU9QlHjvwjRWXx70G7jTsw83QRcWB-l7EymIQPakPEtzyz/s1280/Tutorial%20Membuat%20Aplikasi%20Catering%20Sederhana%20dengan%20Android%20Studio.png" style="max-width:100%;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciwATHmqKDbCSOOTpPjx2jQ75dACIHtfLLyO0404cwbBGGsO7wBqPzCB66mQReJPLKBMBtidLNA13IsViLaEBFX1x5w2_235_ENMtf4cTNxENQCtQjDt60YS6Dfntx-XP0utrjfHB1t4FJ4LU9QlHjvwjRWXx70G7jTsw83QRcWB-l7EymIQPakPEtzyz/s1280/Tutorial%20Membuat%20Aplikasi%20Catering%20Sederhana%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciwATHmqKDbCSOOTpPjx2jQ75dACIHtfLLyO0404cwbBGGsO7wBqPzCB66mQReJPLKBMBtidLNA13IsViLaEBFX1x5w2_235_ENMtf4cTNxENQCtQjDt60YS6Dfntx-XP0utrjfHB1t4FJ4LU9QlHjvwjRWXx70G7jTsw83QRcWB-l7EymIQPakPEtzyz/s1280/Tutorial%20Membuat%20Aplikasi%20Catering%20Sederhana%20dengan%20Android%20Studio.png" style="max-width:100%;" alt="">
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
 ## 👇 Click For Support Me :
 <a href="https://sociabuzz.com/azharrvldi_/donate"> 
-<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200"></a>
+<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200" alt=""></a>
 
 ## 📄 License
 

@@ -9,5 +9,12 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primary">#DD3E46</color>
     <color name="secondary">#FFF1D8</color>
+    <color name="green">#6FAA5B</color>
+    <color name="grey">#F5F5F5</color>
+    <color name="darkgreen">#467835</color>
+    <color name="grey_green">#373E37</color>
+    <color name="orange_light">#F6C094</color>
+    <color name="orange">#CF7A4C</color>
+
     <!--<color name="secondary">#F9BB4B</color>-->
 </resources>
