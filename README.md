@@ -1,35 +1,19 @@
-# Catering
-Membuat Aplikasi Catering Sederhana dengan Android Studio
+# Deskripsi Aplikasi
+Aplikasi catering adalah sebuah platform digital yang dirancang untuk untuk memenuhi kebutuhan masyarakat akan layanan pesan antar makanan yang praktis dan fleksibel. Dengan antarmuka yang user-friendly, aplikasi ini memungkinkan pengguna untuk menjelajahi beragam pilihan menu dari berbagai penyedia jasa catering. Mulai dari hidangan tradisional hingga kuliner modern, semua dapat diakses hanya dengan beberapa ketukan jari. Selain itu, fitur kustomisasi pesanan memungkinkan pengguna untuk menyesuaikan menu sesuai dengan selera dan kebutuhan acara mereka. Dengan adanya aplikasi ini, pelanggan dapat dengan mudah memilih menu, melakukan pemesanan, dan melacak status pesanan mereka secara real-time.
 
-# Tutorial Build with Android Studio
-https://youtu.be/YpGac1bY2Tw
+# Nama Kelompok
+1. Rifda Nadhifa (23050974003)
+2. Carel Ray Juliano (23050974009)
+3. Mufidahtul Istiqomah (23050974016)
 
-# Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2023/08/tutorial-membuat-aplikasi-catering.html
+# Fitur di Aplikasi 
+1. Fitur Login dan Register: Memungkinkan pengguna untuk membuat akun dan mengakses aplikasi. Pencarian Makanan: Pengguna dapat mencari menu atau jenis makanan tertentu dengan cepat.
+2. Kategori Paket Makanan: Menyediakan kategori paket seperti Complete Package, Saving Package, Healthy Package, FastFood Package, Birthday Package dan Dessert.
+4. Rekomendasi Menu: Memberikan rekomendasi menu berdasarkan preferensi pengguna.
+5. Detail Paket Menu: memberikan informasi lengkap tentang menu yang dipilih oleh pengguna. Informasi tersebut mencakup nama menu, harga, deskripsi, rating, perkiraan waktu pemesanan, serta opsi untuk menambah atau mengurangi jumlah pesanan.
+6. Manajemen Keranjang Belanja: Memudahkan pengguna meninjau pesanan sebelum melakukan pembayaran.
+7. Pemesanan: 
+8. Riwayat Pesanan: Menyimpan catatan semua pesanan yang pernah dilakukan pengguna.
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciwATHmqKDbCSOOTpPjx2jQ75dACIHtfLLyO0404cwbBGGsO7wBqPzCB66mQReJPLKBMBtidLNA13IsViLaEBFX1x5w2_235_ENMtf4cTNxENQCtQjDt60YS6Dfntx-XP0utrjfHB1t4FJ4LU9QlHjvwjRWXx70G7jTsw83QRcWB-l7EymIQPakPEtzyz/s1280/Tutorial%20Membuat%20Aplikasi%20Catering%20Sederhana%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciwATHmqKDbCSOOTpPjx2jQ75dACIHtfLLyO0404cwbBGGsO7wBqPzCB66mQReJPLKBMBtidLNA13IsViLaEBFX1x5w2_235_ENMtf4cTNxENQCtQjDt60YS6Dfntx-XP0utrjfHB1t4FJ4LU9QlHjvwjRWXx70G7jTsw83QRcWB-l7EymIQPakPEtzyz/s1280/Tutorial%20Membuat%20Aplikasi%20Catering%20Sederhana%20dengan%20Android%20Studio.png" style="max-width:100%;" alt="">
-
-****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
-
-## 👇 Click For Support Me :
-<a href="https://sociabuzz.com/azharrvldi_/donate"> 
-<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200" alt=""></a>
-
-## 📄 License
-
-```
-Copyright (C) Azhar Rivaldi
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-```
+## Referensi 
+https://github.com/AzharRivaldi/Catering.git
